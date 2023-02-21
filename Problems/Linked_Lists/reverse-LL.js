@@ -16,3 +16,5 @@ class Node {
 const reverseList = (head) => {
   // TO DO
 };
+
+module.exports = { reverseList };

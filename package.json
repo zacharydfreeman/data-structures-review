@@ -1,0 +1,22 @@
+{
+  "name": "assessment-review",
+  "version": "1.0.0",
+  "description": "assessment review",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharydfreeman/assessment-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharydfreeman/assessment-review/issues"
+  },
+  "homepage": "https://github.com/zacharydfreeman/assessment-review#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
