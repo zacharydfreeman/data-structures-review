@@ -32,7 +32,7 @@ class Node {
 
 // Approach:
 // Time & Space Complexity:
-const isBinarySearchTree = (root, minVal = -Infinity, maxVal = Infinity) => {
+const isBinarySearchTree = (root) => {
   // TO DO
 };
 
