@@ -56,7 +56,7 @@ const mergeTwoLists = (head1, head2) => {
 };
 
 // Approach: Recursive
-// Time & Space Complexity: O(min(n, m)) time | O(1) space where n is length of list 1 and m is length of list 2
+// Time & Space Complexity: O(min(n, m)) time | O(min(n, m)) space where n is length of list 1 and m is length of list 2
 const mergeTwoLists2 = (head1, head2) => {
   // base cases => if both nodes are null return null
   if (!head1 && !head2) return null;
