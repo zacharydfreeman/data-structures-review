@@ -1,4 +1,4 @@
-const { sumList } = require('../Problems/Linked_Lists/sum-LL');
+const { sumList } = require('../Linked_Lists/sum-LL');
 
 describe('Sum List Tests', () => {
   class Node {

@@ -1,4 +1,4 @@
-const { mergeTwoLists } = require('../Problems/Linked_Lists/merge-LL');
+const { mergeTwoLists } = require('../Linked_Lists/merge-LL');
 
 describe('Merege Two Lists Tests', () => {
   class Node {

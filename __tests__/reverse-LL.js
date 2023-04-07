@@ -1,4 +1,4 @@
-const { reverseList } = require('../Problems/Linked_Lists/reverse-LL');
+const { reverseList } = require('../Linked_Lists/reverse-LL');
 
 describe('Reverse List Tests', () => {
   class Node {
