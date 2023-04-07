@@ -1,4 +1,4 @@
-const { dfs } = require('../Problems/Binary_Trees/dfs');
+const { dfs } = require('../Binary_Trees/dfs');
 
 describe('Depth First Search Tests', () => {
   class Node {
