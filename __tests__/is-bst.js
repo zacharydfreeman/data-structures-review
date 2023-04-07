@@ -1,4 +1,4 @@
-const { isBinarySearchTree } = require('../Problems/Binary_Trees/is-bst');
+const { isBinarySearchTree } = require('../Binary_Trees/is-bst');
 
 describe('Is Binary Search Tree Tests', () => {
   class Node {

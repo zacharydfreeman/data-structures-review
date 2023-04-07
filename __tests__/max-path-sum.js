@@ -1,4 +1,4 @@
-const { maxPathSum } = require('../Problems/Binary_Trees/max-path-sum');
+const { maxPathSum } = require('../Binary_Trees/max-path-sum');
 
 describe('Max Path Sum Tests', () => {
   class Node {
