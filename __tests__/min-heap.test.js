@@ -11,6 +11,7 @@ describe('Min Heap tests', () => {
     const array = [1, 3, 2, 5, 6, 7, 4, 9, 8];
     const minHeap = new MinHeap(array);
     minHeap.insert(0);
+    expect(minHeap.heap[0]).toEqual(0);
     expect(minHeap.heap).toEqual([0, 1, 2, 5, 3, 7, 4, 9, 8, 6]);
   });
 
