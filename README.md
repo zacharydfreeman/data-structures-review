@@ -6,4 +6,4 @@ Data Structures Review
 
 run `npm install` to install dependencies <br />
 run `npm test` to run entire test suite <br />
-run `jest filename` to run tests individually (i.e. `jest bfs`)
+run `npm test filename` to run tests individually
