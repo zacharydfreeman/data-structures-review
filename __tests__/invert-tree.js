@@ -1,4 +1,4 @@
-const { invertTree } = require('../Problems/Binary_Trees/invert-tree');
+const { invertTree } = require('../Binary_Trees/invert-tree');
 
 describe('Invert Tree Tests', () => {
   class Node {
