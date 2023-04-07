@@ -1,9 +1,9 @@
 ## About
 
-Binary Trees & Linked List Review
+Data Structures Review
 
 ## Setup
 
-run `npm install` to install dependencies
-run `npm test` to run entire test suite
+run `npm install` to install dependencies <br />
+run `npm test` to run entire test suite <br />
 run `jest filename` to run tests individually (i.e. `jest bfs`)
