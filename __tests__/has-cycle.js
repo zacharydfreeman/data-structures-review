@@ -1,4 +1,4 @@
-const { linkedListCycle } = require('../Problems/Linked_Lists/has-cycle');
+const { linkedListCycle } = require('../Linked_Lists/has-cycle');
 
 describe('Has Cycle Tests', () => {
   class Node {
